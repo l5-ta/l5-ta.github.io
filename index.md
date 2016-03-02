@@ -1,3 +1,7 @@
+---
+title: This is my title
+layout: post
+---
 A First Level Header
 ====================
 
